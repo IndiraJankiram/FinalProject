@@ -106,7 +106,7 @@ let SuperSectorKeys = Object.keys(superSector);
           },
           title: {
             display: true,
-            text: 'Chart.js Line Chart'
+            text: 'Number of Employees in Thousands'
           }
         }
       }
